@@ -1,7 +1,7 @@
 # speckle_time_series
 # Analysis of Magnetic Speckle Dynamics
 
-In this poject,  the dynamic behavior of magnetic domains using data from Coherent X-ray Scattering experiments is analyzed. The core of this technique relies on tracking the intensity fluctuations of magnetic speckles over time to characterize the underlying physical processes, such as the motion of domain walls and topological defects. The data consist of photon arrival times and coordinates, collected through a TimePix based photon counting detector. 
+In this project,  the dynamic behavior of magnetic domains using data from Coherent X-ray Scattering experiments is analyzed. The core of this technique relies on tracking the intensity fluctuations of magnetic speckles over time to characterize the underlying physical processes, such as the motion of domain walls and topological defects. The data consist of photon arrival times and coordinates, collected through a TimePix based photon counting detector. 
 
 The analysis workflow is designed to transform raw photon event data  into quantitative metrics of the system's dynamics, namely its characteristic timescale and its "memory."
 
